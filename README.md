@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Akhilendra-Mishra/Akhilendra-Mishra/blob/main/Purple%20White%20Marketing%20Manager%20Modern%20Profile%20LinkedIn%20Article%20Cover%20Image%20(2).png)
 <h1 align="center">Hi 👋, I'm Akhil Mishra</h1>
 <h3 align="center">A passionate Softwere Engineer from India</h3>
 
