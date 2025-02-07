@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akhilendra-mishra.github.io/Akhilendra-Mishra-WebPortfolio-main/](https://akhilendra-mishra.github.io/Akhilendra-Mishra-WebPortfolio-main/)
 
-- 💬 Ask me about **Flutter, Android, iOS, Python, SQL**
+- 💬 Ask me about **UiPath, C#, Python, DU, AI Center, ML **
 
 - 📫 How to reach me **akhilmishra18638@gmail.com**
 
